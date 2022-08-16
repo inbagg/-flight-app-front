@@ -1,2 +1,2 @@
-# -flight-app-front
+# flight-app-front
 jb final project
